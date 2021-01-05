@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/samsung-store/static/css/main.36c07384.chunk.css",
-    "main.js": "/samsung-store/static/js/main.2c175312.chunk.js",
-    "main.js.map": "/samsung-store/static/js/main.2c175312.chunk.js.map",
+    "main.js": "/samsung-store/static/js/main.72d6158b.chunk.js",
+    "main.js.map": "/samsung-store/static/js/main.72d6158b.chunk.js.map",
     "runtime-main.js": "/samsung-store/static/js/runtime-main.edf20cde.js",
     "runtime-main.js.map": "/samsung-store/static/js/runtime-main.edf20cde.js.map",
     "static/js/2.a85d2d41.chunk.js": "/samsung-store/static/js/2.a85d2d41.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.edf20cde.js",
     "static/js/2.a85d2d41.chunk.js",
     "static/css/main.36c07384.chunk.css",
-    "static/js/main.2c175312.chunk.js"
+    "static/js/main.72d6158b.chunk.js"
   ]
 }
