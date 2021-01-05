@@ -66,7 +66,7 @@ export default class App extends Component {
       <div className="App">
 
         <h1>Welcome to the Samsung Store</h1>
-        <button className='sistemButton card' onClick={() => { this.setState({ flag: false }) }} >card</button>
+        <button className='sistemButton card' onClick={() => { this.setState({ flag: false }) }} >cart</button>
         <button className='sistemButton home' onClick={() => { this.setState({ flag: true }) }}>home</button>
         {this.show()}
 
